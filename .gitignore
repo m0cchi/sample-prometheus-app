@@ -1,0 +1,6 @@
+*~
+*pyc
+.venv
+.ruff_cache
+requirements.txt
+
